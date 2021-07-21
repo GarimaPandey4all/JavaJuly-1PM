@@ -1,0 +1,33 @@
+Core Java
+
+Programming: set of instructions / set of statements
+
+Language: C, C++ , Java
+
+source code : English(.java) -->Compiler-->Byte Code(.class)-->JRE (Interpreter)--> Machine code : Binary 
+
+Computer system: Binary (2-->1-->0) Language
+
+Java: 
+-Platform Independent
+-It is portable
+-It is using WORA: Write Once Run Anywhere
+
+Platform : O/s and Hardware
+
+JRE: read byte code and converted it into machine code
+
+Java Developer: JDK - Java Development Kit --> JRE (Java Runtime Environment) --> JVM (Java Virtual Machine)
+
+Client Machine: JRE 
+
+Java is used to make Enterprise Applications
+
+-Enterprise Applications:
+	e.g: Banking Applications 	
+		e.g: Loan Software, Insurance, CASA (Current Account and Saving Account) etc
+		
+
+Java is an Open Source:
+
+
