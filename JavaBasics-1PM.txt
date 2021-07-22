@@ -1,0 +1,9 @@
+Java History:
+
+- Invented by James Gosling in 1991
+- Developed by Sun Microsystems
+- The old name of java is "Oak"
+- In 1995, First released publicly as "Java 1.0"
+- Sun Microsystems sold java to oracle corporation in 2009
+
+JDK --> JRE --> JVM (Java Virtual Machine)
