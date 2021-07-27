@@ -1,0 +1,24 @@
+What is System.out.println()?
+
+- println(): print in new line, println comes from out object
+- out: out is a predefined object, which belongs to PrintStream (stream - flow of data) class
+- System: system is a predefined class used for input , output and error
+e.g: System.in, System.out, System.err
+
+println vs print
+
+- println: print in new line
+- print: here ccursor remains at the end of the text
+
+Can we overload main()?
+
+- Yes, we can overload the main()
+- When we execute the class, JVM starts execution with public static void main(String[] args)
+
+
+Variables:
+
+- Java doesn't have any garbage value
+- It throws error
+- Local Varibles must be initialized before use
+- otherwise compilation fails
