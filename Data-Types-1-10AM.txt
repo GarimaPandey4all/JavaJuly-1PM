@@ -1,0 +1,31 @@
+Data Types:
+
+2 types of data types
+1. Primitive Data Types or Value Data Types
+
+byte = 1 byte = 8 bits
+1 bit +-
+7 bits number range
+bit 0, 1 base 2
+
+-2 ^ 7 to 2 ^ 7 - 1
+-128 to 127
+
+-Java doesn't have unsigned concept
+
+Integral
+byte - 1 byte = 8 bits
+short - 2 bytes
+int - 4 bytes
+long - 8 bytes
+
+Decimal
+float - 4 bytes
+double - 8 bytes
+
+char - 2 bytes
+boolean - size depending upon O/S, 1 byte/ 2 byte / 4 byte
+
+2. Reference/Address Data Types
+
+-String
