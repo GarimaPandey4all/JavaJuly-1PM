@@ -1,0 +1,94 @@
+2 major types of programming
+
+1. Procedural Programming: Functions- Divide a problem into functions
+	e.g: C language
+2. Object Oriented Programming: Wrap all the variables and functions into a 
+	single unit
+	e.g: C++, Java, C# etc
+
+class A
+{
+int a, b;// data members
+add() // member methods
+{}
+sub()
+{}
+div()
+{}
+mul()
+{}
+}
+
+class B
+{
+sin()
+{
+  double a;
+}
+}
+
+
+is java has global variable?
+- No, because in java every program start with class and class doesn't have global
+	variable.
+
+
+C- We think only for functions
+We never think of data, so either data/variable are define local or global.
+And Global can be conflict with others.
+
+C++: OOPS - provide a feature of data binding using classes.
+So your class have your variable and your methods that never conflict with other 
+developers.
+So we can use for large and complex system and it fit for real world scenerios.
+
+Now in OOPs we can use same variable names, same method name in different classes.
+
+What is OOPS?
+
+- Divide a problem into classes.
+- OOPs Features
+1. Class, Object
+object - real world entity
+e.g: A/C, Car, Projector etc
+e.g: Ram, Shyam, Garima
+
+Class- Collection of similar objects
+Blueprint, Layout, Skeleton
+Class - Collection of Features/Characterics
+e.g: Human(Features Brain, Height, 2 Ears)
+Object: Ram state brain sharp, 6 feet Height
+Object - Object Contains State(Object Values)
+
+Class - Human, Student, Employee
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
