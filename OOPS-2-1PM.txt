@@ -1,0 +1,24 @@
+OOAD- Object Oriented Analysis and Design
+- To make your code clean
+- OOAD provides SOLID principle
+
+SOLID:
+
+D - DRY - Don't Repeat Yourself
+Copy paste alternative create a function and call it.
+
+Encapsulation: 
+- Encapsulation: Wrap methods and member variables into a single unit and that unit is called class.
+
+- Private member variables and public methods
+
+Data Hiding - Good Encapsulation
+
+Data Hiding- make member variables private
+
+Good Encapsulation = Data Hiding + Encapsulation
+
+this keyword:
+
+- it's holds the current object address
+- this keyword is optional to write, it is implicitly work itself.
