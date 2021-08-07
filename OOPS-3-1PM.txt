@@ -1,0 +1,18 @@
+Constructor
+
+Q1. Need to initialize the member variable when object  is construct.
+- We need constructor for this.
+
+Constructor is call when you create an object.
+So constructor will initialize the member variables
+Constructor name is same as class name
+Constructor never return anything
+It is called only once
+One class can have multiple constructors, so this thing is called constructor 
+overloading.
+Every Class by default have default constructor
+So if you create any other constructor the default one is killed 
+
+-When we need multiple constructor calls in a single call.
+We need constructor chaining for this.
+this keyword also use for constructor chaining.
