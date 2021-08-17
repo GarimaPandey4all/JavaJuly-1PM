@@ -1,0 +1,28 @@
+Upcasting:
+- child object is typecasted into a parent class object.
+
+Downcasting:
+- parent object is typecasted into a child class object.
+
+Abstract
+- Abstract Methods are methods can only be declared, not defined.
+- Abstract class can have abstract methods
+- You cannot create objects of abstract class
+
+Interface:
+
+- An Interface can have methods and variables, but the methods declared in an interface are by default abstract
+(Only method signature, no body).
+
+- Why do we use interface?
+- It is used to achieve total abstraction
+- Since Java does not support multiple inheritance in case of class, but by using interface it can achieve 
+multiple inheritance/interface.
+
+- Interfaces are used to implement abstraction.
+So the question arises why we use interfaces when we have abstract classes?
+
+The reason is abstract classes may contain non-final variables, whereas variables in interface are 
+final, public , static.
+
+
