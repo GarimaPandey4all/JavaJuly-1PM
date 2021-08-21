@@ -21,6 +21,8 @@ public class StaticKeyword {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
+		//main(null); // stack overflow
+		
 		for(int i = 1; i <= 10; i++)
 		{
 			Enemy obj = new Enemy("L"+i, true, i);
